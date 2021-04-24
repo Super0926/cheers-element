@@ -1,11 +1,12 @@
 {
   "name": "cheers-element",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "main": "lib/index/index.js",
   "keyword": "cheers-element",
   "description": "基于element-ui的组件库",
   "author": "钱华",
+  "home":"https://super0926.github.io/cheers-element/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
